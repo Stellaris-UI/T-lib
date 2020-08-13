@@ -1,0 +1,8 @@
+{
+  "name": "t-lib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Stellaris-UI/t-lib",
+  "author": "https://github.com/rodzy",
+  "license": "MIT"
+}
