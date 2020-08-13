@@ -1,0 +1,12 @@
+.re-btn {
+    background-color: white;
+    border: 1px solid black;
+    padding: 16px;
+    width: 360px;
+    text-align: center;
+
+    &.re-btn-dark {
+        background-color: #333333;
+        color: white;
+    }
+}
