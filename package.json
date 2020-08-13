@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/Stellaris-UI/t-lib",
   "author": "https://github.com/rodzy",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
 }
