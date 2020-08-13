@@ -1,7 +1,11 @@
 {
   "name": "t-lib",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "build/index.js",
+  "module": "build/index.es.js",
+  "files": [
+    "build"
+  ],
   "repository": "https://github.com/Stellaris-UI/t-lib",
   "author": "https://github.com/rodzy",
   "license": "MIT",
@@ -19,5 +23,8 @@
     "rollup-plugin-postcss": "^3.1.5",
     "rollup-plugin-typescript2": "^0.27.2",
     "typescript": "^3.9.7"
+  },
+  "scripts": {
+    "build":"rollup -c"
   }
 }
