@@ -1,8 +1,8 @@
 import React from "react";
-import ReTestComponent from './re-testComponent';
+import ReTestComponent from "./re-testComponent";
 
 export default {
-  title: "ReTestComponent"
+  title: "ReTestComponent",
 };
 
 export const Primary = () => <ReTestComponent theming="light" />;
