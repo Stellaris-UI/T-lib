@@ -5,11 +5,11 @@ This is a mockup with setup examples to get started or getting the grasp of the 
 ## Why should you check this? 🤔
 
 This is a great tool for new contributors, to help them get the basic understanding on how the Stellaris-UI library works, from:
-- [Tooling]()
-- [Ecosystem]()
-- [File structure]()
-- [Rollup config]()
-- [Code splitting]()
+- [Tooling](https://github.com/Stellaris-UI/starting-point#tooling-)
+- [Ecosystem](https://github.com/Stellaris-UI/starting-point#ecosystem-)
+- [File structure](https://github.com/Stellaris-UI/starting-point#file-structure-)
+- [Rollup config](https://github.com/Stellaris-UI/starting-point#rollup-config-)
+- [Code splitting](https://github.com/Stellaris-UI/starting-point#code-splitting-)
 
 ## Tooling 🛠
 All the tooling used in the ``package.json``
