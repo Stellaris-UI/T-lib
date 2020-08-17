@@ -1,6 +1,6 @@
 import React, { Fragment } from "react";
 import { Retestprops } from "./re-testComponent.types";
-import './re-testComponent.scss'
+import "./re-testComponent.scss";
 
 const ReTestComponent: React.FC<Retestprops> = ({ theming }) => (
   <Fragment>
