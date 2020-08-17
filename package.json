@@ -38,6 +38,8 @@
   "scripts": {
     "build": "rollup -c",
     "storybook": "start-storybook -p 6006",
-    "storybook:export": "build-storybook"
+    "storybook:export": "build-storybook",
+    "test": "jest",
+    "test:watch": "jest --watch"
   }
 }
