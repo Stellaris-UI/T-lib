@@ -40,6 +40,7 @@
     "storybook": "start-storybook -p 6006",
     "storybook:export": "build-storybook",
     "test": "jest",
-    "test:watch": "jest --watch"
+    "test:watch": "jest --watch",
+    "prepublishOnly": "yarn build"
   }
 }
