@@ -42,21 +42,27 @@ All the tooling used in the ``package.json``
     "typescript": "^3.9.7"
   },
 ```
+**Note:** All this dependecies are already in the original Stellaris repo, just use ``yarn install`` on your terminal, when the repository is cloned
 
 ## Ecosystem ♻
 
 - Architecture:
-  - TypeScript / .tsx
-  - Babel
+  - [TypeScript](https://www.typescriptlang.org/) 
+  - [React using .tsx](https://react-typescript-cheatsheet.netlify.app/docs/basic/setup)
+  - [Babel and the react preset](https://babeljs.io/docs/en/babel-preset-react)
+  
 - Testing:
-  - Jest / ts-jest
-  - React Testing Library
+  - [Jest / ts-jest](https://jestjs.io/)
+  - [React Testing Library](https://testing-library.com/docs/react-testing-library/api)
+  
 - Styling:
-  - CSS / SCSS
+  - [CSS / SCSS](https://sass-lang.com/documentation/syntax)
+  
 - Bundling
-  - Rollup
+  - [Rollup](https://rollupjs.org/guide/en/)
+  
 - Docs
-  - StoryBook
+  - [StoryBook](https://storybook.js.org/)
   
 ## File structure 📂
 
