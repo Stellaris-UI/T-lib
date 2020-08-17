@@ -21,7 +21,10 @@ export default {
   // input: "src/index.ts",
   output: [
     {
-      file: packageJson.main,
+      dir:"build",
+      // Also insted of file we must use dir to preserve the
+      // output files
+      // file: packageJson.main,
       format: "cjs",
       sourcemap: true
     },
